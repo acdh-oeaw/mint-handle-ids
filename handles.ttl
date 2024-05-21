@@ -1,28 +1,6 @@
 @prefix ns1: <https://vocabs.acdh.oeaw.ac.at/schema#> .
 
-<https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0063.xml> ns1:hasPid "https://hdl.handle.net/21.11115/0000-000F-FF78-C" .
+<https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0077.xml> ns1:hasPid "https://hdl.handle.net/21.11115/0000-0011-DC6F-A" .
 
-<https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0064.xml> ns1:hasPid "https://hdl.handle.net/21.11115/0000-000F-FF79-B" .
-
-<https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0065.xml> ns1:hasPid "https://hdl.handle.net/21.11115/0000-000F-FF7A-A" .
-
-<https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0066.xml> ns1:hasPid "https://hdl.handle.net/21.11115/0000-000F-FF7B-9" .
-
-<https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0067.xml> ns1:hasPid "https://hdl.handle.net/21.11115/0000-000F-FF7C-8" .
-
-<https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0068.xml> ns1:hasPid "https://hdl.handle.net/21.11115/0000-000F-FF7D-7" .
-
-<https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0069.xml> ns1:hasPid "https://hdl.handle.net/21.11115/0000-000F-FF7E-6" .
-
-<https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0070.xml> ns1:hasPid "https://hdl.handle.net/21.11115/0000-000F-FF7F-5" .
-
-<https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0071.xml> ns1:hasPid "https://hdl.handle.net/21.11115/0000-000F-FF80-1" .
-
-<https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0072.xml> ns1:hasPid "https://hdl.handle.net/21.11115/0000-000F-FF81-0" .
-
-<https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0073.xml> ns1:hasPid "https://hdl.handle.net/21.11115/0000-000F-FF82-F" .
-
-<https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0074.xml> ns1:hasPid "https://hdl.handle.net/21.11115/0000-000F-FF83-E" .
-
-<https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0075.xml> ns1:hasPid "https://hdl.handle.net/21.11115/0000-000F-FF84-D" .
+<https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0078.xml> ns1:hasPid "https://hdl.handle.net/21.11115/0000-0011-DC70-7" .
 
