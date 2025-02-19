@@ -20,4 +20,3 @@ for row in reader:
         URIRef(row["arche_id"]), ARCHE["hasPid"], Literal(f"{row['handle_id']}")
     ))
 g.serialize("handles.ttl")
-
